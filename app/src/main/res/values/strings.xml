@@ -1,0 +1,4 @@
+<resources>
+    <!-- 此处更改 APP 名称 -->
+    <string name="app_name">CleanCompose</string>
+</resources>
